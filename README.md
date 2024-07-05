@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I’m Sultan Syaeful Millah</h1>
-
 <p align="center">
   <em>Interested in Web Development and UI/UX Design</em>
 </p>
@@ -27,7 +26,6 @@
 <div align="center">
 
 #### GitHub Stats
-<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=dark" alt="Sultan's GitHub Stats" style="height: 150px;">
 
@@ -35,7 +33,6 @@
 <br>
 
 #### Languages and Tools
-<br>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
@@ -50,8 +47,6 @@
 <br>
 
 #### Connect with Me
-
-<br>
 
 <a href="https://github.com/Shinee000ZZZ" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/sultan-syaeful-millah/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

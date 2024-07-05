@@ -1,4 +1,4 @@
-<h1 align="center"># 👋 Hi, I’m Sultan Syaeful Millah</h1>
+<h1 align="center">👋 Hi, I’m Sultan Syaeful Millah</h1>
 
 - 👀 I’m interested in Web Development and UI/UX Design
 - 🌱 I’m currently learning at SMKN 1 Banjar

@@ -21,12 +21,16 @@
 </p>
 
 <br>
+<div align="center">
 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet)
+#### GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=dark" alt="Sultan's GitHub Stats" style="height: 150px;">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=dark" alt="Top Languages" style="height: 150px;">
 
 #### Languages and Tools
 
@@ -51,18 +55,11 @@
 <a href="https://www.instagram.com/kesaltunan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/OkeShinee" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
 
-
-</div>
-
 <br>
 
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet)
 
-#### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=dark" alt="Sultan's GitHub Stats" style="height: 150px;">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=dark" alt="Top Languages" style="height: 150px;">
+</div>
 
 </div>
 

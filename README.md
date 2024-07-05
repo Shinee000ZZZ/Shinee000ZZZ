@@ -1,6 +1,4 @@
-<div align="center">
-
-# 👋 Hi, I’m Sultan Syaeful Millah
+<h1 align="center">👋 Hi, I’m Sultan Syaeful Millah<h1/>
 
 - 👀 I’m interested in Web Development and UI/UX Design
 - 🌱 I’m currently learning at SMKN 1 Banjar
@@ -18,7 +16,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-</div>
+
 
 <!---
 Shinee000ZZZ/Shinee000ZZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

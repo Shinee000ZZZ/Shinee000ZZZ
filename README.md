@@ -45,8 +45,9 @@
 
 #### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=github_dark" alt="Sultan's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=github_dark" alt="Sultan's GitHub Stats" style="height: 150px;">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=github_dark" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=github_dark" alt="Top Languages" style="height: 150px;">
+
 
 </div>

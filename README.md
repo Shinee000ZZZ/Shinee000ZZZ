@@ -6,6 +6,8 @@
 - 😄 Pronouns: He/Him
 - ❓ Fun fact: What's your favorite anime?
 
+<div align="center">
+
 ## Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -16,6 +18,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+<div/>
 
 
 <!---

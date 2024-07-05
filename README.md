@@ -26,6 +26,7 @@
 ### GitHub Stats
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=radical" alt="Sultan's GitHub Stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=radical" alt="Top Languages">
 
 
 

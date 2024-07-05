@@ -24,10 +24,6 @@
   ❓ Q&A: What's your favorite anime?
 </p>
 
-<p>
-  💡 Funfact: I'm love a girl
-</p>
-
 <br>
 
 <div align="left">

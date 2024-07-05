@@ -1,38 +1,38 @@
-<h1 align="center">👋 Hi, I’m Sultan Syaeful Millah</h1>
-<p align="center">
+<h1>👋 Hi, I’m Sultan Syaeful Millah</h1>
+<p>
   <em>Interested in Web Development and UI/UX Design</em>
 </p>
 
-<p align="center">
+<p>
   🌱 Currently learning at SMKN 1 Banjar
 </p>
 
-<p align="center">
+<p>
   📫 How to reach me: just contact <a href="mailto:shineggod@gmail.com">shineggod@gmail.com</a>
 </p>
 
-<p align="center">
+<p>
   😄 Pronouns: Raja Iblis / Maou-Sama
 </p>
 
-<p align="center">
+<p>
   ❓ Q&A: What's your favorite anime?
 </p>
 
+<br>
 
-
-<div align="center">
+<div align="left">
 
 #### GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=dark" alt="Sultan's GitHub Stats" style="height: 150px;">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=dark" alt="Top Languages" style="height: 150px;">
+
 <br>
 
 #### Languages and Tools
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; justify-content: left; flex-wrap: wrap; gap: 20px;">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
@@ -57,11 +57,11 @@
 
 #### GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Shinee000ZZZ&theme=darkhub" alt="GitHub Trophies">
+
+<br>
 <br>
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet)
-
-</div>
 
 </div>

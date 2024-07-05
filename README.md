@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  😄 Pronouns: He/Him
+  😄 Pronouns: Raja Iblis / Maou-Sama
 </p>
 
 <p align="center">

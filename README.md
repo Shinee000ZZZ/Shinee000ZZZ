@@ -1,10 +1,11 @@
-### ![Banner](https://image.benq.com/is/image/benqco/rd-id-17?$ResponsivePreset$)
+
 
 <div align="center">
 <h1>👋 Hi, I’m Sultan Syaeful Millah</h1>
   <p>Entry Level Full-Stack Web Developer</p>
 </div>
-<br>
+ <br>
+ <br>
 
 <h2>👀 About Me</h2>
 

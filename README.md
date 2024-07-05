@@ -55,6 +55,11 @@
 
 <br>
 
+#### GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=Shinee000ZZZ&theme=darkhub" alt="GitHub Trophies">
+<br>
+<br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet)
 
 </div>

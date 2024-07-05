@@ -22,7 +22,11 @@
 
 <br>
 
+
+
 <div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet)
 
 #### Languages and Tools
 
@@ -48,7 +52,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=dark" alt="Sultan's GitHub Stats" style="height: 150px;">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=dark" alt="Top Languages" style="height: 150px;">
-
-
 
 </div>

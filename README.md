@@ -21,10 +21,15 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" style="width: 120px; height: 40px;" alt="Figma">
 </div>
 
-</div>
+<br>
+
+### GitHub Stats
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=radical" alt="Sultan's GitHub Stats">
+
+
+
 <div/>
-
-
 <!---
 Shinee000ZZZ/Shinee000ZZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

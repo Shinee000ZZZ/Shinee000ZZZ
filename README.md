@@ -1,8 +1,9 @@
-![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
+### ![Banner](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
-
+<div align="center">
 <h1>👋 Hi, I’m Sultan Syaeful Millah</h1>
-
+  <p>Entry Level Full-stack Developer</p>
+</div>
 <br>
 
 <h2>👀 About Me</h2>

@@ -1,4 +1,4 @@
-### ![banner](https://raw.githubusercontent.com/Shinee000ZZZ/Shinee000ZZZ/main/banner.png)
+### ![banner](https://github.com/Shinee000ZZZ/Shinee000ZZZ/blob/main/bener.png?raw=true)
 
 <div align="center">
 <h1>👋 Hi, I’m Sultan Syaeful Millah</h1>

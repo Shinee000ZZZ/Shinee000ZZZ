@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  ❓ Fun fact: What's your favorite anime?
+  ❓ Q&A: What's your favorite anime?
 </p>
 
 <br>

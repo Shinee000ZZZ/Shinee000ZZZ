@@ -19,8 +19,6 @@
   ❓ Q&A: What's your favorite anime?
 </p>
 
-<br>
-<div align="center">
 
 
 <div align="center">

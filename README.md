@@ -23,10 +23,10 @@
 <br>
 
 
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet)
+
 
 #### Languages and Tools
 
@@ -42,7 +42,6 @@
 
 </div>
 
-<br>
 <br>
 
 <div align="center">

@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>👋 Hi, I’m Sultan Syaeful Millah</h1>
-  <p>Entry Level Full-stack Developer</p>
+  <p>Entry Level Full-Stack WebDeveloper</p>
 </div>
 <br>
 

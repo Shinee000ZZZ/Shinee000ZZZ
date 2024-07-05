@@ -28,6 +28,13 @@
 
 <div align="left">
 
+<h2>📊 GitHub Stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=dark" alt="Sultan's GitHub Stats" style="height: 150px;">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=dark" alt="Top Languages" style="height: 150px;">
+
+<br>
+<br>
 
 <h2> 🛠️ Languages</h2>
 
@@ -64,22 +71,12 @@
 
 <br>
 
-
 <h2>🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=Shinee000ZZZ&theme=darkhub" alt="GitHub Trophies">
 
 <br>
 <br>
-
-<h2>📊 GitHub Stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=dark" alt="Sultan's GitHub Stats" style="height: 150px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=dark" alt="Top Languages" style="height: 150px;">
-
 <br>
-<br>
-<br>
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet)
 

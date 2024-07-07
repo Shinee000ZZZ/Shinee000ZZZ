@@ -1,11 +1,19 @@
-### ![banner](https://github.com/Shinee000ZZZ/Shinee000ZZZ/blob/main/github-banner111.png?raw=true)
+<pre style="background: #2d2d2d; color: #f8f8f2; padding: 20px; border-radius: 10px; overflow: auto;">
+<code style="font-size: 16px;">
+class Person {
+  constructor() {
+    this.name = "Sultan Syaeful Millah";
+    this.languagesSpoken = ["Sundanese", "Indonesian", "English"];
+  }
 
-<div align="center">
-<h1>👋 Hi, I’m Sultan Syaeful Millah</h1>
-  <p>Entry Level Full-Stack Web Developer</p>
-</div>
- <br>
- <br>
+  sayHi() {
+    console.log("👋 Hello!");
+  }
+}
+</code>
+  </pre>
+
+<br>
 
 <h2>👀 About Me</h2>
 
@@ -22,29 +30,28 @@
 </p>
 
 <p>
-  😄 Pronouns: Raja Iblis / Maou-Sama
+  😄 Pronouns: He/Him
 </p>
 
 <p>
   ❓ Q&A: What's your favorite anime?
 </p>
 
-<br>
 
 <div align="left">
+  
+  </div>
+
+<br>
 
 <h2>📊 GitHub Stats</h2>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=dark" alt="Sultan's GitHub Stats" style="height: 150px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=dark" alt="Top Languages" style="height: 150px;">
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=dark" alt="Sultan's GitHub Stats" style="height: 150px;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=dark" alt="Top Languages" style="height: 150px;">
-
-<br>
-<br>
-
-<h2> 🛠️ Languages</h2>
-
-<div style="display: flex; justify-content: left; flex-wrap: wrap; gap: 20px;">
-  <!-- Languages -->
+<h2>🛠️ Languages</h2>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
@@ -52,37 +59,27 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
 </div>
 
-<br>
-
-<h2> 🚀 Frameworks</h2>
-
-<div style="display: flex; justify-content: left; flex-wrap: wrap; gap: 20px;">
-  <!-- Frameworks -->
+<h2>🚀 Frameworks</h2>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 
-<br>
-
-<h2> 🛠️ Tools</h2>
-
-<div style="display: flex; justify-content: left; flex-wrap: wrap; gap: 20px;">
-  <!-- Tools -->
+<h2>🛠️ Tools</h2>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/-ChatGPT-29B6F6?style=flat&logo=openai&logoColor=white" alt="ChatGPT">
 </div>
 
-<br>
-
 <h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=Shinee000ZZZ&theme=darkhub" alt="GitHub Trophies">
-
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Shinee000ZZZ&theme=darkhub" alt="GitHub Trophies">
+</div>
 <br>
-<br>
-<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet)
-
+<div align="left">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet)
 </div>

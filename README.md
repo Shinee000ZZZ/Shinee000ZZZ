@@ -50,7 +50,7 @@ class Person {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=dark" alt="Top Languages" style="height: 150px;">
 </div>
 
-<h2>🛠️ Languages</h2>
+<h2>🌍 Languages</h2>
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">

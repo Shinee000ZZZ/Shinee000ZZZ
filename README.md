@@ -73,7 +73,7 @@ class Person {
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">    
   <img src="https://img.shields.io/badge/-Flowbite-38BDF8?style=flat&logo=flowbite&logoColor=white" alt="Flowbite">
   <img src="https://img.shields.io/badge/-ChatGPT-29B6F6?style=flat&logo=openai&logoColor=white" alt="ChatGPT">
 </div>

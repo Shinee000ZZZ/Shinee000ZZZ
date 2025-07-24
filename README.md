@@ -7,7 +7,7 @@ class Saltun {
   }
 
   sayHi() {
-    console.log("👋 Hello!");
+    console.log("aloo guiss!");
   }
 }
 </code>

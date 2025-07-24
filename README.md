@@ -50,6 +50,12 @@ class Saltun {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=dark" alt="Top Languages" style="height: 150px;">
 </div>
 
+<h2>📈 Contribution Graph</h2>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shinee000ZZZ&theme=tokyo-night&area=true" alt="Contribution Graph" />
+</p>
+
+
 <h2>🌐 Languages</h2>
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">

@@ -73,7 +73,6 @@ class Saltun {
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-ChatGPT-29B6F6?style=flat&logo=openai&logoColor=white" alt="ChatGPT">
 </div>
 
 <h2>🏆 GitHub Trophies</h2>

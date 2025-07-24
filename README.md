@@ -86,5 +86,5 @@ class Saltun {
 
 <div align="left">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet)
+  ![Total Profile Views](https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet)
 </div>

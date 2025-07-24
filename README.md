@@ -1,6 +1,6 @@
 <pre style="background: #2d2d2d; color: #f8f8f2; padding: 20px; border-radius: 10px; overflow: auto;">
 <code style="font-size: 16px;">
-class Person {
+class Saltun {
   async orangGanteng() {
     this.name = "Sultan Syaeful Millah";
     this.languagesSpoken = ["Sundanese", "Indonesian", "English"];

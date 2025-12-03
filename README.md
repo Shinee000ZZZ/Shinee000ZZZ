@@ -44,12 +44,6 @@ class Saltun {
 
 <br>
 
-<h2>📊 GitHub Stats</h2>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=dark" alt="Sultan's GitHub Stats" style="height: 150px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=dark" alt="Top Languages" style="height: 150px;">
-</div>
-
 <h2>📈 Contribution Graph</h2>
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shinee000ZZZ&theme=tokyo-night&area=true" alt="Contribution Graph" />

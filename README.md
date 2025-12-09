@@ -54,6 +54,7 @@ class Saltun {
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
 </div>
 
 <h2>🚀 Frameworks, Libraries and Databases</h2>
@@ -64,7 +65,9 @@ class Saltun {
   <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/-Flowbite-38BDF8?style=flat&logo=flowbite&logoColor=white" alt="Flowbite">
   <img src="https://img.shields.io/badge/-AlpineJS-8BC0D0?style=flat&logo=alpinejs&logoColor=white" alt="AlpineJS">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">    
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">    
+  <img src="https://img.shields.io/badge/-Odoo-714B67?style=flat&logo=odoo&logoColor=white" alt="Odoo">
 </div>
 
 <h2>🛠️ Tools</h2>

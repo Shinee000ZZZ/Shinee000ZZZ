@@ -22,7 +22,7 @@ class Saltun {
 </p>
 
 <p>
-   🏢 Currently learning at SMKN 1 Banjar
+   🏢 Currently working at HR Academy Indonesia
 </p>
 
 <p>

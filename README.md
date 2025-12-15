@@ -90,5 +90,5 @@ class Saltun {
 <br>
 
 <div align="left">
-  ![Total Profile Views](https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet)
+  <img src="https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet" alt="Total Profile Views" />
 </div>

@@ -83,8 +83,8 @@ class Saltun {
 
 <h2>📊 GitHub Analytics</h2>
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reyhansyah11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reyhansyah11&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <br>

@@ -39,7 +39,7 @@ class Developer {
 ![Languages](https://skillicons.dev/icons?i=js,php,python)
 
 ### Frameworks & Libraries
-![Stack](https://skillicons.dev/icons?i=laravel,react,tailwind,bootstrap,nodejs)
+![Stack](https://skillicons.dev/icons?i=laravel,react,tailwind,bootstrap,nodejs,alpinejs)
 
 ### Databases
 ![Database](https://skillicons.dev/icons?i=mysql,postgres)
@@ -79,7 +79,10 @@ class Developer {
 
 ---
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31c6ggrqhx35ljhn6eu6l3vzt4ri)
+## NOW PLAYING
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31c6ggrqhx35ljhn6eu6l3vzt4ri)
+
+--- 
 
 ## 🌐 Connect
 

@@ -79,7 +79,6 @@ class Developer {
 
 ---
 
-## NOW PLAYING
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c6ggrqhx35ljhn6eu6l3vzt4ri&width=1000" />
 
 --- 

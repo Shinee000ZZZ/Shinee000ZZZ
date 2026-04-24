@@ -21,7 +21,6 @@ class Developer {
       "Web Development",
       "UI/UX Design",
       "Backend Systems",
-      "Open Source"
     ];
   }
 
@@ -82,25 +81,3 @@ class Developer {
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=31c6ggrqhx35ljhn6eu6l3vzt4ri&width=1000" />
 
 --- 
-
-## 🌐 Connect
-
-<p align="left">
-<a href="mailto:shineggod@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/Shinee000ZZZ">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
-<div align="center">
-
-### “Code. Learn. Build. Repeat.”
-
-<img src="https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet"/>
-
-</div>

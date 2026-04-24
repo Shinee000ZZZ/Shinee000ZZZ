@@ -1,94 +1,104 @@
-<pre style="background: #2d2d2d; color: #f8f8f2; padding: 20px; border-radius: 10px; overflow: auto;">
-<code style="font-size: 16px;">
-class Saltun {
-  async orangGanteng() {
-    this.name = "Sultan Syaeful Millah";
-    this.languagesSpoken = ["Sundanese", "Indonesian", "English"];
+<div align="center">
+
+# Hey, I'm Sultan 👋
+
+### Fullstack Developer • Problem Solver • Lifelong Learner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+things+with+code;Web+Development+Enthusiast;UI%2FUX+Driven+Developer;Always+Learning+Something+New"/>
+
+</div>
+
+---
+
+## 💻 About Me
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Sultan";
+    this.code = ["JavaScript", "PHP", "Python"];
+    this.interests = [
+      "Web Development",
+      "UI/UX Design",
+      "Backend Systems",
+      "Open Source"
+    ];
   }
 
-  sayHi() {
-    console.log("'sup guys (dengan nada nonchalant)");
+  philosophy() {
+    return "Keep building.";
   }
 }
-</code>
-  </pre>
+```
 
-<br>
+---
 
-<h2>👀 About Me</h2>
+## ⚡ Tech Stack
 
-<p>
-  <em>Interested in Web Development and UI/UX Design</em>
-</p>
+### Languages
+![Languages](https://skillicons.dev/icons?i=js,php,python)
 
-<p>
-   🏢 Currently working at HR Academy Indonesia
-</p>
+### Frameworks & Libraries
+![Stack](https://skillicons.dev/icons?i=laravel,react,tailwind,bootstrap,nodejs)
 
-<p>
-  📫 How to reach me: just contact <a href="mailto:shineggod@gmail.com">shineggod@gmail.com</a>
-</p>
+### Databases
+![Database](https://skillicons.dev/icons?i=mysql,postgres)
 
-<p>
-  😄 Pronouns: He/Him
-</p>
+### Tools
+![Tools](https://skillicons.dev/icons?i=figma,vscode,git,github,postman)
 
-<p>
-  ❓ Q&A: What's your favorite anime?
-</p>
+---
 
+## 🚀 What I Enjoy
 
-<div align="left">
-  
-  </div>
+- Building web applications  
+- Designing intuitive interfaces  
+- Exploring new technologies  
+- Solving real-world problems through code  
+- Continuous improvement  
 
-<br>
+---
 
-<h2>📈 Contribution Graph</h2>
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shinee000ZZZ&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shinee000ZZZ&theme=tokyo-night&area=true)](https://github.com/Shinee000ZZZ)
+
+---
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31c6ggrqhx35ljhn6eu6l3vzt4ri)
+
+## 🌐 Connect
+
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shinee000ZZZ&theme=tokyo-night&area=true" alt="Contribution Graph" />
+<a href="mailto:shineggod@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Shinee000ZZZ">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
 </p>
 
+---
 
-<h2>🌐 Languages</h2>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-</div>
+<div align="center">
 
-<h2>🚀 Frameworks, Libraries and Databases</h2>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/-Flowbite-38BDF8?style=flat&logo=flowbite&logoColor=white" alt="Flowbite">
-  <img src="https://img.shields.io/badge/-AlpineJS-8BC0D0?style=flat&logo=alpinejs&logoColor=white" alt="AlpineJS">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">    
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">    
-  <img src="https://img.shields.io/badge/-Odoo-714B67?style=flat&logo=odoo&logoColor=white" alt="Odoo">
-</div>
+### “Code. Learn. Build. Repeat.”
 
-<h2>🛠️ Tools</h2>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/-ngrok-1F1E37?style=flat&logo=ngrok&logoColor=white" alt="ngrok">
+<img src="https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet"/>
 
-</div>
-
-<h2>📊 GitHub Analytics</h2>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<br>
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shinee000ZZZ&color=blueviolet" alt="Total Profile Views" />
 </div>

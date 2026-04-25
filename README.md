@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Sultan 👋
+# Hi, I'm Sultan 👋
 
-### Fullstack Developer • Problem Solver • Lifelong Learner
+### Junior Fullstack Developer 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+things+with+code;Web+Development+Enthusiast;UI%2FUX+Driven+Developer;Always+Learning+Something+New"/>
 
@@ -20,7 +20,6 @@ class Developer {
     this.interests = [
       "Web Development",
       "UI/UX Design",
-      "Backend Systems",
     ];
   }
 

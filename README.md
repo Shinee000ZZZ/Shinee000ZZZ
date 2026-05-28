@@ -4,7 +4,7 @@
 
 ### Junior Fullstack Developer 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+things+with+code;Web+Development+Enthusiast;UI%2FUX+Driven+Developer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Junior+Fullstack+Web+Developer+;Web+Development+Enthusiast"/>
 
 </div>
 

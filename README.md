@@ -61,11 +61,7 @@ class Developer {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shinee000ZZZ&show_icons=true&theme=tokyonight&count_private=true"/>
-
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shinee000ZZZ&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinee000ZZZ&layout=compact&theme=tokyonight"/>
 
 </div>
 

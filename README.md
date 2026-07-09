@@ -43,7 +43,7 @@ class Developer {
 ![Database](https://skillicons.dev/icons?i=mysql,postgres)
 
 ### Tools
-![Tools](https://skillicons.dev/icons?i=figma,vscode,git,github,postman)
+![Tools](https://skillicons.dev/icons?i=figma,vscode,git,github,postman,docker)
 
 ---
 
